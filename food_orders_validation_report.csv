@@ -1,0 +1,7 @@
+Item,Count
+Original rows,1010
+Cleaned rows,1000
+Repeated Order ID rows removed,0
+Missing Order Value,40
+Invalid delivery times,0
+Revenue records used,828
